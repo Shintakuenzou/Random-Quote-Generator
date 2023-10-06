@@ -1,7 +1,7 @@
 # Random Quote Generator
 >O Random Quote Generator é uma aplicação web que exibe citações aleatórias e inspiradoras sempre que você clica em um botão. As citações são obtidas de uma API pública e são exibidas de forma atraente na interface do usuário.
 
->``Quero testar:``[<a href="https://shintakuenzou.github.io/Random-Quote-Generator/" target="__blank"> https://shintakuenzou.github.io/Random-Quote-Generator/</a>](https://shintakuenzou.github.io/Random-Quote-Generator/)
+>``Quero testar:``[<a href="https://shintakuenzou.github.io/Random-Quote-Generator/" target="_blank"> https://shintakuenzou.github.io/Random-Quote-Generator/</a>](https://shintakuenzou.github.io/Random-Quote-Generator/)
 
 ## Ajustes e melhorias
 - [x] Gere citações inspiradoras aleatórias com o clique de um botão.
