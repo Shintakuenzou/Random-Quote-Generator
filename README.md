@@ -4,6 +4,7 @@
 ## Ajustes e melhorias
 - [x] Gere citações inspiradoras aleatórias com o clique de um botão.
 - [x] Compartilhe citações no Twitter com um único clique.
+- [X] Responsivo
 - [ ] Escolha a categoria de citação desejada antes de gerar uma citação.
 
 ### Languages and Tools:
